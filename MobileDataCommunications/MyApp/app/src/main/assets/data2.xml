@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <pubDate>Thu, 18 Oct 2018 10:07:17 GMT</pubDate>
+        <lastBuildDate>Thu, 18 Oct 2018 10:07:17 GMT</lastBuildDate>
+        <title>Leffatykin elokuva-arvostelut</title>
+        <language>fi</language>
+        <link>http://www.leffatykki.com/xml/rss/leffat</link>
+        <description></description>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <atom:link href="http://www.leffatykki.com/xml/rss/leffat" rel="self" type="application/rss+xml" />
+        <ttl>60</ttl>
+        <item>
+            <title>Kaipuu</title>
+            <link>http://www.leffatykki.com/elokuva/kaipuu</link>
+            <description></description>
+            <pubDate>Thu, 1 Jan 1970 00:00:00 GMT</pubDate>
+            <guid isPermaLink="true">http://www.leffatykki.com/elokuva/kaipuu</guid>
+        </item>
+        <item>
+            <title>Scream</title>
+            <link>http://www.leffatykki.com/elokuva/scream</link>
+            <description></description>
+            <pubDate>Thu, 1 Jan 1970 00:00:00 GMT</pubDate>
+            <guid isPermaLink="true">http://www.leffatykki.com/elokuva/scream</guid>
+        </item>
+        <item><title>The Violin</title><link>http://www.leffatykki.com/elokuva/the-violin</link><description></description><pubDate>Thu, 1 Jan 1970 00:00:00 GMT</pubDate><guid isPermaLink="true">http://www.leffatykki.com/elokuva/the-violin</guid></item>
+        <item><title>How Tasty Was My Little Frenchman</title><link>http://www.leffatykki.com/elokuva/how-tasty-was-my-little-frenchman</link><description></description><pubDate>Thu, 1 Jan 1970 00:00:00 GMT</pubDate><guid isPermaLink="true">http://www.leffatykki.com/elokuva/how-tasty-was-my-little-frenchman</guid></item>
+        <item><title>Bad Times at the El Royale</title><link>http://www.leffatykki.com/elokuva/bad-times-at-the-el-royale</link><description></description><pubDate>Thu, 1 Jan 1970 00:00:00 GMT</pubDate><guid isPermaLink="true">http://www.leffatykki.com/elokuva/bad-times-at-the-el-royale</guid></item>
+        <item><title>Valley of the Bees</title><link>http://www.leffatykki.com/elokuva/valley-of-the-bees</link><description></description><pubDate>Thu, 1 Jan 1970 00:00:00 GMT</pubDate><guid isPermaLink="true">http://www.leffatykki.com/elokuva/valley-of-the-bees</guid></item>
+        <item><title>A Star Is Born</title><link>http://www.leffatykki.com/elokuva/a-star-is-born-2018</link><description></description><pubDate>Thu, 1 Jan 1970 00:00:00 GMT</pubDate><guid isPermaLink="true">http://www.leffatykki.com/elokuva/a-star-is-born-2018</guid></item>
+        <item><title>The Fifth Seal</title><link>http://www.leffatykki.com/elokuva/the-fifth-seal</link><description></description><pubDate>Thu, 1 Jan 1970 00:00:00 GMT</pubDate><guid isPermaLink="true">http://www.leffatykki.com/elokuva/the-fifth-seal</guid></item>
+        <item><title>Kummelin Jackpot</title><link>http://www.leffatykki.com/elokuva/kummelin-jackpot</link><description></description><pubDate>Thu, 1 Jan 1970 00:00:00 GMT</pubDate><guid isPermaLink="true">http://www.leffatykki.com/elokuva/kummelin-jackpot</guid></item>
+        <item><title>Vain neljÃ¤ pÃ¤ivÃ¤Ã¤</title><link>http://www.leffatykki.com/elokuva/vain-nelja-paivaa</link><description></description><pubDate>Thu, 1 Jan 1970 00:00:00 GMT</pubDate><guid isPermaLink="true">http://www.leffatykki.com/elokuva/vain-nelja-paivaa</guid></item>
+        <item><title>Olavi Virta</title><link>http://www.leffatykki.com/elokuva/olavi-virta</link><description></description><pubDate>Thu, 1 Jan 1970 00:00:00 GMT</pubDate><guid isPermaLink="true">http://www.leffatykki.com/elokuva/olavi-virta</guid></item>
+        <item><title>Kurjet lentÃ¤vÃ¤t</title><link>http://www.leffatykki.com/elokuva/kurjet-lentavat</link><description></description><pubDate>Thu, 1 Jan 1970 00:00:00 GMT</pubDate><guid isPermaLink="true">http://www.leffatykki.com/elokuva/kurjet-lentavat</guid></item>
+        <item><title>The Three Veterans</title><link>http://www.leffatykki.com/elokuva/the-three-veterans</link><description></description><pubDate>Thu, 1 Jan 1970 00:00:00 GMT</pubDate><guid isPermaLink="true">http://www.leffatykki.com/elokuva/the-three-veterans</guid></item>
+        <item><title>Hot Shots 2 - Kaikkien jatko-osien Ã¤iti</title><link>http://www.leffatykki.com/elokuva/hot-shots-2-kaikkien-jatko-osien-aiti</link><description></description><pubDate>Thu, 1 Jan 1970 00:00:00 GMT</pubDate><guid isPermaLink="true">http://www.leffatykki.com/elokuva/hot-shots-2-kaikkien-jatko-osien-aiti</guid></item>
+        <item><title>Sotilaan isÃ¤</title><link>http://www.leffatykki.com/elokuva/sotilaan-isa</link><description></description><pubDate>Thu, 1 Jan 1970 00:00:00 GMT</pubDate><guid isPermaLink="true">http://www.leffatykki.com/elokuva/sotilaan-isa</guid></item>
+        <item><title>Fruit of paradise</title><link>http://www.leffatykki.com/elokuva/fruit-of-paradise</link><description></description><pubDate>Thu, 1 Jan 1970 00:00:00 GMT</pubDate><guid isPermaLink="true">http://www.leffatykki.com/elokuva/fruit-of-paradise</guid></item>
+        <item><title>The Driller Killer</title><link>http://www.leffatykki.com/elokuva/driller-killer-the</link><description></description><pubDate>Thu, 1 Jan 1970 00:00:00 GMT</pubDate><guid isPermaLink="true">http://www.leffatykki.com/elokuva/driller-killer-the</guid></item>
+        <item><title>Tuhatkaunokit</title><link>http://www.leffatykki.com/elokuva/tuhatkaunokit</link><description></description><pubDate>Thu, 1 Jan 1970 00:00:00 GMT</pubDate><guid isPermaLink="true">http://www.leffatykki.com/elokuva/tuhatkaunokit</guid></item>
+        <item><title>Sherlock Holmes kohtaa kuoleman</title><link>http://www.leffatykki.com/elokuva/sherlock-holmes-kohtaa-kuoleman</link><description></description><pubDate>Thu, 1 Jan 1970 00:00:00 GMT</pubDate><guid isPermaLink="true">http://www.leffatykki.com/elokuva/sherlock-holmes-kohtaa-kuoleman</guid></item>
+        <item><title>Magdana's Donkey</title><link>http://www.leffatykki.com/elokuva/magdanas-donkey</link><description></description><pubDate>Thu, 1 Jan 1970 00:00:00 GMT</pubDate><guid isPermaLink="true">http://www.leffatykki.com/elokuva/magdanas-donkey</guid></item>
+        <item><title>Tuhkimo ja kolme pÃ¤hkinÃ¤Ã¤</title><link>http://www.leffatykki.com/elokuva/tuhkimo-ja-kolme-pahkinaa</link><description></description><pubDate>Thu, 1 Jan 1970 00:00:00 GMT</pubDate><guid isPermaLink="true">http://www.leffatykki.com/elokuva/tuhkimo-ja-kolme-pahkinaa</guid></item>
+        <item><title>Juhlavieraat</title><link>http://www.leffatykki.com/elokuva/juhlavieraat</link><description></description><pubDate>Thu, 1 Jan 1970 00:00:00 GMT</pubDate><guid isPermaLink="true">http://www.leffatykki.com/elokuva/juhlavieraat</guid></item>
+        <item><title>The Hateful Eight</title><link>http://www.leffatykki.com/elokuva/the-hateful-eight</link><description></description><pubDate>Thu, 1 Jan 1970 00:00:00 GMT</pubDate><guid isPermaLink="true">http://www.leffatykki.com/elokuva/the-hateful-eight</guid></item>
+        <item><title>Limonadi Joe</title><link>http://www.leffatykki.com/elokuva/limonadi-joe</link><description></description><pubDate>Thu, 1 Jan 1970 00:00:00 GMT</pubDate><guid isPermaLink="true">http://www.leffatykki.com/elokuva/limonadi-joe</guid></item>
+        <item><title>The Devil's Trap</title><link>http://www.leffatykki.com/elokuva/the-devils-trap</link><description></description><pubDate>Thu, 1 Jan 1970 00:00:00 GMT</pubDate><guid isPermaLink="true">http://www.leffatykki.com/elokuva/the-devils-trap</guid></item>
+    </channel>
+</rss>
