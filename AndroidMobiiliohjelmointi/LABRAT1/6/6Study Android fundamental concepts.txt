@@ -1,0 +1,21 @@
+
+6.
+Study Android fundamental concepts
+https://developer.android.com/guide/components/fundamentals
+Answer to following questions:
+Veikko Tapaninen (
+veikko.tapaninen@oamk.fi
+)
+1.
+What programming languages you can use for Android app development?
+2.
+What is .apk file?
+3.
+How Android system runs apps?
+4.
+Name four types of Android components. Describe each.
+5.
+What is manifest file and what is its purpose?
+6.
+What are resources? Why they are needed?
+Write down your answers to document and save it. 

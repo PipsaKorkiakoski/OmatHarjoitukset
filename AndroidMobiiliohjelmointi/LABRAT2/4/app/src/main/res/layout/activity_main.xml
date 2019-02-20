@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/linearLayout">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/addbtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="@string/addbtn"
+                android:text="Add"
+                tools:laayout_editor_absoluteY="0dp"
+                tools:layout_conversion_absoluteHeightbsoluteX="60dp"
+                tools:layout_editor_a="48dp"
+                tools:lyout_conversion_absoluteWidth="97dp" />
+
+            <Button
+                android:id="@+id/editbtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="@string/editbtn"
+                android:text="Edit"
+                tools:laayout_editor_absoluteY="0dp"
+                tools:layout_conversion_absoluteHeightsoluteX="157dp"
+                tools:layout_editor_ab="48dp"
+                tools:lyout_conversion_absoluteWidth="97dp" />
+
+            <Button
+                android:id="@+id/deletebtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="@string/deletebtn"
+                android:text="@string/deletebtn"
+                tools:laayout_editor_absoluteY="0dp"
+                tools:layout_conversion_absoluteHeightsoluteX="254dp"
+                tools:layout_editor_ab="48dp"
+                tools:lyout_conversion_absoluteWidth="97dp" />
+        </LinearLayout>
+
+
+        <EditText
+            android:id="@+id/editText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName"
+            tools:layout_conversion_absoluteHeight="45dp"
+            tools:layout_conversion_absoluteWidth="411dp"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="48dp" />
+
+        <ListView
+            android:id="@+id/listView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            tools:layout_conversion_absoluteHeight="638dp"
+            tools:layout_editor_absoluteY="93dp"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_conversion_absoluteWidth="411dp" />
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

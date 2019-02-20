@@ -1,0 +1,36 @@
+4.
+Study following object oriented concepts
+You have studied object oriented programming concepts on earlier courses. I want that 
+you recap following issues in 
+Java programming language
+. Understanding these are 
+really important to successfully complete the course
+1.
+Object
+2.
+Class
+3.
+Instantiation of object (creating an object)
+4.
+Visibility (public / private / protected)
+Veikko Tapaninen (
+veikko.tapaninen@oamk.fi
+)
+5.
+Member datas / methods
+6.
+Inheritance
+7.
+Interface
+8.
+Polymorphism
+9.
+Overriding
+10.
+Abstract classes
+Create a document and 
+write a description
+ (with your own words) of each of the topics 
+above. Please also create example project and
+ demonstrate each concept in Java 
+programming language. Please addd the demonstration code to your document.
