@@ -1,0 +1,39 @@
+Android
+
+LAB 1
+1 Asenna 
+2 Opettele 
+3 HelloWorld App 
+4 Study following object oriented concepts
+5 More ui 
+6 Study Android fundamental concepts
+
+LAB2
+1 UILista (Lista, buttonit add, edit, remove, scrollaus 
+2 UI Iso nappi laskee painallukset 
+3 UI (teht1) ilman layouttia 
+4 UI Muokataan teht 1 lisää 
+5 Greet app 
+
+LAB 3
+1Menus 
+2External Activities (Intents)
+3Zoo (Grid, MediaPlayer, raw, drawable)
+4EggTimer (CountDownTimer)
+
+LAB4 
+1 Workout (Luokan perintä, Activity result, timer)
+
+LAB5
+1 Data saving -> mod LAB4 (Shared Preference)
+2 Todo (sql) 
+
+LAB6
+1 Reminder (NumberPicker, Notification)
+2 NoteApp (OutputSreamWriter, InputStreamReader)
+
+
+
+
+
+
